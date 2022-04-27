@@ -1,0 +1,6 @@
+La mas clara condición de carrera es que dos usarios accedan a una petición al tiempo que solo puede ser ocupada por uno, hay dos peticiones que contienen esta condición.
+
+Estas son:
+
+* El agregar competidor: si se crean dos competidores con el mismo id al tiempo en una carrera.
+* Obtener ganador: si 2 competdiores de una carrera llegan a la meta al tiempo.
